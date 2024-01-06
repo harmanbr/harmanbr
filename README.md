@@ -2,7 +2,7 @@
 - 👀 I’m interested in a Software Engineering Role
 - 🌱 I’m currently learning React, Azure, AWS, and Machine Learning
 - 💞️ I’m looking to collaborate on .Net, SQL, Java
-- 📫 Reach out to me on Linkedin @https://www.linkedin.com/in/brar-harman/
+- 📫 Reach out to me on <a href="https://www.linkedin.com/in/brar-harman/">Linkedin</a>
 
 <!---
 harmanbr/harmanbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
