@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harmanbr
 - 👀 I’m interested in a Software Engineering Role
-- 🌱 I’m currently mastering React, Azure, AWS, and Machine Learning
+- 🌱 I’m currently mastering React, NextJS, Azure, AWS, and Machine Learning
 - 💞️ I’m looking to collaborate on .Net, SQL, Java
 - 📫 Reach out to me on <a href="https://www.linkedin.com/in/brar-harman/">Linkedin</a>
 
